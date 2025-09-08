@@ -23,7 +23,7 @@
 ## 🔗 Connect with me  
 <p align="center">
   <a href="https://priya98000ghosh-lab.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/priya98000ghosh-lab/Priya-Ghosh"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/priya98000ghosh-lab"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/priyaghosh016/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:priya98000ghosh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
