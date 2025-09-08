@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
-  <a href="https://priya98000ghosh-lab.github.io/HTML-Programs/">
+  <a href="https://github.com/priya98000ghosh-lab/HTML-programs">
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   </a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
